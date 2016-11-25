@@ -11,5 +11,8 @@ This will be updated often :)
 
 - [Andrej Karpathy blog][karpathy]
 
+- [Tim Dettmers blog][timdettmers]
+
 
 [karpathy]: https://karpathy.github.io/
+[timdettmers]: http://timdettmers.com/
