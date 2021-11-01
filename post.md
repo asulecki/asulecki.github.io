@@ -1,7 +1,7 @@
 ---
 layout: post
+title: Test
+author: Andrzej
 ---
-
-# Post
 
 Body
